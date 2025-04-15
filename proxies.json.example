@@ -1,0 +1,37 @@
+{
+  "proxies": [
+    {
+      "protocol": "http",
+      "host": "proxy1.example.com",
+      "port": "8080",
+      "username": "user1",
+      "password": "pass1",
+      "country": "US",
+      "failures": 0,
+      "last_used": 0,
+      "success_count": 0
+    },
+    {
+      "protocol": "http",
+      "host": "proxy2.example.com",
+      "port": "8080",
+      "username": "user2",
+      "password": "pass2",
+      "country": "UK",
+      "failures": 0,
+      "last_used": 0,
+      "success_count": 0
+    },
+    {
+      "protocol": "socks5",
+      "host": "proxy3.example.com",
+      "port": "1080",
+      "username": "user3",
+      "password": "pass3",
+      "country": "CA",
+      "failures": 0,
+      "last_used": 0,
+      "success_count": 0
+    }
+  ]
+}

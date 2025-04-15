@@ -1,0 +1,9 @@
+crawl4ai
+playwright
+pandas
+beautifulsoup4
+python-dotenv
+google-generativeai>=0.3.0
+pytest
+pytest-asyncio
+fuzzywuzzy[speedup]
